@@ -93,3 +93,12 @@ This project demonstrates several critical aspects of cybersecurity:
 - **Virtualization:** Using VirtualBox to create isolated environments for testing ensures that experiments do not impact real-world systems, making it an ideal setup for learning and practicing cybersecurity techniques.
 
 Overall, this project provided practical experience in using some of the most critical tools in cybersecurity, helping to deepen my understanding of network security and the importance of monitoring and protecting networked systems.
+
+### DEMO:
+![Screenshot 2024-07-23 001103](https://github.com/user-attachments/assets/eb08c87e-e219-47bb-a263-4b080d59e28e)
+![Screenshot 2024-07-23 001202](https://github.com/user-attachments/assets/a0e8e64b-d55d-43e0-a116-c71782d17757)
+![Screenshot 2024-07-23 001406](https://github.com/user-attachments/assets/f59cf740-03ee-4f4d-8e8e-a59234beea63)
+![Screenshot 2024-07-23 001641](https://github.com/user-attachments/assets/ccfad30e-f795-4afb-b690-d35e64b2c1e8)
+![Screenshot 2024-07-23 005117](https://github.com/user-attachments/assets/77041cc1-a162-4a81-88c1-f9ea2d41903a)
+
+
